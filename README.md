@@ -6,7 +6,7 @@ Atividade avaliativa de Web I, com React e Typescript
 - npm install
 - npm start
   
-### Equipe:
+## Equipe:
 
 - Michael Alexandrino Freire
 - Cicera Fabiola Ângelo da Silva

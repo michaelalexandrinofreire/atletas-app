@@ -10,3 +10,4 @@ Atividade avaliativa de Web I, com React e Typescript
 
 - Michael Alexandrino Freire
 - Cicera Fabiola Ângelo da Silva
+- Joyce Teixeira da Silva
